@@ -1,2 +1,2 @@
-# fancy-lab
-fancy-lab going to a woocommerce theme
+# mycommerce
+mycommerce going to a woocommerce theme
